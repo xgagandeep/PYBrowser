@@ -11,6 +11,9 @@
 
 PyBrowser is a custom web browser application developed using Python and the PyQt5 library, with PyQtWebEngine providing web rendering capabilities. This project features a modern, tabbed interface for web browsing with several functionalities including custom window controls, tab management, and history tracking.
 
+![image](https://github.com/user-attachments/assets/98080a82-e713-477b-8fc6-2f9f6941083f)
+
+
 ## Features
 
 - **Tabbed Browsing:** Manage multiple tabs with the ability to open, close, and switch between them.
